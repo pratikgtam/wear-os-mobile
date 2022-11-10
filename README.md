@@ -1,4 +1,4 @@
-# hello_flutter
+# Flutter app to communicate with wear os app
 
 A new Flutter project.
 
