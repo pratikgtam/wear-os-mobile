@@ -46,7 +46,7 @@ dependencies:
   flutter:
     sdk: flutter
   # flutter_idensic_mobile_sdk_plugin: ^1.19.5
-  # flutter_inappwebview: ^5.7.1
+  flutter_inappwebview: ^5.7.1
   # flutter_local_notifications: ^9.6.1
   # flutter_markdown: ^0.6.9
   # flutter_riverpod: ^1.0.4
